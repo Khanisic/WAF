@@ -1,6 +1,5 @@
 # WAF
 
-This is a property of mettech media and only with permission is downloadable 
 
 Steps to make it work:-
 
